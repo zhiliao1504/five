@@ -1,0 +1,6 @@
+Array
+(
+    [action] => sel
+    [time] => 1497170274
+    [sign] => ca99c7b7e54a1b1b88d39d92e3483bc6
+)
